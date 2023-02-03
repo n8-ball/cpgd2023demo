@@ -7,9 +7,8 @@ Name Test
 Test 2
 Bozo Goodman
 Christian Bird
-<<<<<<< Updated upstream
+9f61844f16c0fa1456cfd30b2b3619648682cf23
+Nikhil Mandke
 ooga booga
-=======
 hey now, you're an all star, get your game on, go play (Jeffer)
 
->>>>>>> Stashed changes
